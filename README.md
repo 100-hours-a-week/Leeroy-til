@@ -2,6 +2,8 @@
 
 [[24.12.09](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-09.md)] Docker(1) 개념 정리
 
+[[24.12.11]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-11.md) 딥다이브 Docker-compose
+
 ### [21월 1째주, 7주차] : Docker (1), KVM 활용
 
 [[24.12.05]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-04.md) 딥다이브 & 커뮤니티 프론트
