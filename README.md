@@ -4,6 +4,8 @@
 
 [[24.12.11]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-11.md) 딥다이브 Docker-compose
 
+[[24.12.13]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-13.md) 컨테이너 클러스터
+
 ### [21월 1째주, 7주차] : Docker (1), KVM 활용
 
 [[24.12.05]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-04.md) 딥다이브 & 커뮤니티 프론트
