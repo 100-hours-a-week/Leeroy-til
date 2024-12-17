@@ -1,4 +1,8 @@
-### [21월 2째주, 8주차] : Docker
+### [12월 3째주, 9주차] : Kubernetes
+
+[[24.12.16](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-16.md)] CS스터디 1회차 & 반려사항 수정
+
+### [12월 2째주, 8주차] : Docker
 
 [[24.12.09](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-09.md)] Docker(1) 개념 정리
 
@@ -6,7 +10,7 @@
 
 [[24.12.13]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-13.md) 컨테이너 클러스터
 
-### [21월 1째주, 7주차] : Docker (1), KVM 활용
+### [12월 1째주, 7주차] : Docker (1), KVM 활용
 
 [[24.12.05]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-04.md) 딥다이브 & 커뮤니티 프론트
 
