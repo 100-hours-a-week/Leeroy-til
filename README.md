@@ -2,6 +2,8 @@
 
 [[24.12.16](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-16.md)] CS스터디 1회차 & 반려사항 수정
 
+[[24.12.17](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-17.md)] CORS 및 HTTP 보안 헤더 & wireshark & 코테 
+
 ### [12월 2째주, 8주차] : Docker
 
 [[24.12.09](https://github.com/100-hours-a-week/Leeroy-til/blob/main/DSC(24)/2024-12-09.md)] Docker(1) 개념 정리
